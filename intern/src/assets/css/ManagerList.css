@@ -1,0 +1,74 @@
+.bread{
+	padding-left:20px;
+	background: white;
+	height: 25px;
+    padding-top: 10px;
+    position:fixed;
+    width:-webkit-fill-available;
+}
+
+.el-breadcrumb {
+    font-size: 12px;
+}
+
+.managerInfo{
+    margin: 0px;
+    padding-top:35px;
+    width:100%;
+    background-color: #f0f0f0;
+}
+
+.managerFilterContainer{
+	width:100%;
+	background-color: white;
+	margin-top:2px;
+	height:50px;
+}
+
+.managerInfo{
+	height:-webkit-fill-available;
+}
+
+
+.addCard{
+	width:27%;
+	height:180px;
+	margin:25px;
+}
+
+.addCard>>>.el-card__body {
+    padding: 10px;
+    height: 160px;
+}
+
+
+.info{
+	margin:0;
+	text-align:left;
+	font-size: 14px;
+    color: grey;
+    margin-top: 10px;
+}
+
+.multiLine{
+	-webkit-line-clamp:3;
+	display: -webkit-box;
+	-webkit-box-orient:vertical;
+	overflow:hidden; 
+	text-overflow: ellipsis;
+	margin-left:10px;
+}
+
+.existCard{
+	width:27%;
+	height:180px;
+	margin:25px;
+}
+
+.verticalLine{
+	float:left;
+	width: 1px;
+	height: 40px; 
+	background: #f7f7f7;
+}
+

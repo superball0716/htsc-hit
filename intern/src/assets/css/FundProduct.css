@@ -1,0 +1,62 @@
+.topControl{
+	height:40px;
+	padding-left: 20px;
+	padding-top:10px;
+}
+
+.bread{
+	padding-left:20px;
+	background: white;
+	height: 25px;
+    padding-top: 10px;
+    position:fixed;
+    width:-webkit-fill-available;
+}
+
+.productFilter{
+	float: left;
+}
+
+.managerFilter{
+	float: left;
+	margin-left: 30px;
+}
+
+.addButton{
+	float: right;
+    margin-right: 20px;
+}
+
+.pageBottom{
+	float:right;
+}
+
+
+.body{
+	margin:0;
+}
+
+.fundInfo{
+    margin: 0px;
+    padding-top:35px;
+    width:100%;
+    background-color: #f0f0f0;
+}
+
+.el-breadcrumb {
+    font-size: 12px;
+}
+
+.editable{
+	color:blue;
+}
+
+.uneditable{
+	color:grey;
+}
+
+.tableborder{
+	margin:15px;
+	background-color: white;
+    position: relative;
+}

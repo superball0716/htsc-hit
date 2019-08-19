@@ -1,0 +1,74 @@
+.bread{
+	padding-left:20px;
+	background: white;
+	height: 25px;
+    padding-top: 10px;
+    position:fixed;
+    width:-webkit-fill-available;
+}
+
+.el-breadcrumb {
+    font-size: 12px;
+}
+
+.fundSec{
+    margin: 0px;
+    padding-top:30px;
+    width:100%;
+    background-color: #f0f0f0;
+}
+
+.editHeader{
+	text-align: left;
+    padding-left: 25px;
+    margin-top: 10px;
+    padding-top:15px;
+}
+
+.body{
+	margin:0;
+}
+
+.tableborder{
+	margin:15px;
+	background-color: white;
+    position: relative;
+}
+
+.detailForm>>>.el-form-item__label {
+    font-size: 13px;
+    color: grey;
+}
+
+.info{
+	margin:0;
+	text-align:left;
+	font-size: 13px;
+}
+
+.multiLine{
+	-webkit-line-clamp:2;
+	display: -webkit-box;
+	-webkit-box-orient:vertical;
+	overflow:hidden; 
+	text-overflow: ellipsis;
+	margin-right:100px;
+}
+
+.readyText{
+	color:red;
+	font-size:13px;
+	margin:8px;
+	padding-bottom: 10px;
+}
+
+.unreadyText{
+	color:grey;
+	font-size:13px;
+	margin:8px;
+	padding-bottom: 10px;
+}
+
+.detailForm>>>.el-form-item--mini.el-form-item, .el-form-item--small.el-form-item {
+    margin-bottom: 10px;
+}
